@@ -1,0 +1,554 @@
+---
+title: Algemene taalwetenschap II
+subtitle: "Sociolinguïstiek en functioneel-cognitieve taalkunde"
+format: 
+  kulqlvl-revealjs:
+    # self-contained: true
+    # chalkboard: true
+    slide-number: true
+    code-line-numbers: true
+    embed-resources: true
+    incremental: false
+
+    # multiplex: true
+# html-math-method:
+#   method: mathjax
+#   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Dr. Thomas Van Hoey
+    # orcid: 0000-0002-5226-9752
+    email: thomas.vanhoey@kuleuven.be
+    # affiliation:
+    #   - name: QLVL @ KU Leuven
+        # url: www.ed.ac.uk
+# date: "22 September 2025"
+logo: inputfiles/kul.png
+# bibliography: refs.bib
+# code-link: true
+# code-copy: true
+highlight-style: "github" # pygments, github
+# footer: Go to [osf.io/598fk](https://osf.io/598fk) for materials
+# filters:
+#   - pandoc-ling.lua
+---
+
+# Sociolinguïstiek
+
+## Startpunt: Ontwikkeling van sociolinguïstiek als zelfstandige discipline
+
+::: columns
+::: {.column width="60%"}
+Als de (Chomskyaanse) grammatica de *competence* bestudeert van de *ideal speaker in the homogeneous community*, dan wil de sociolinguïstiek net wel bestuderen welke invloed taal-externe factoren hebben op taal.
+
+:::
+
+::: {.column width="40%"}
+![](inputfiles/opdeling2.png)
+
+
+:::
+:::
+
+Zie ook lessen van prof. Szmrecsanyi.
+
+## Types sociolinguïstiek
+
+1. (Kwantitatieve) sociolinguïstiek
+2. Ethography of speaking
+3. Taalsociologie
+
+* Overeenkomst: aandacht voor de relatie tussen variatie in de taal en variatie in de sprekers- en situatiecontext.
+* Verschil: niveau en de aard van de variatie in taalverschijnselen die gemeten worden.
+
+## (Kwantitatieve) sociolinguïstiek
+
+::: columns
+::: {.column width="60%"}
+* William Labov (1927-2024)
+* focus: linguïstische variabelen (afzonderlijk beschouwd)
+* vraagstelling: in welke mate bepalen sprekerkenmerken (in relatie tot sociale structuur en sociale dynamiek) en situatiekenmerken (stijl, register) de keuze voor een bepaalde variant?
+
+:::
+
+::: {.column width="40%"}
+![](inputfiles/labov.jpg)
+
+:::
+:::
+
+## Ethnography of speaking
+
+* grondleggers: John Gumperz (1922-2013) en Dell Hymes (1927-2009)
+* focus: discursieve speech events
+* voorbeelden:
+    * "How to ask for a drink in Subanun?"
+    * "Baby talk in six languages"
+    * conversatie in het klaslokaal 
+    * verbal play en verbal art in orale culturen
+* vraagstelling: hoe worden (cultuurspecifieke) talige handelingen verricht?
+* [linguïstische antropologie]{.alert2}
+
+## Taalsociologie
+
+* grondlegger: Joshua Fisherman (1926-2015)
+* focus: keuze tussen verschillende talen of lecten (taalvariëteiten)
+* vraagstelling: who speaks what language to whom, when, and where?
+* termen: [tweetaligheid]{.alert2}, [diglossie]{.alert2}, [code switching]{.alert2}, [code mixing]{.alert2}, style switching, language planning...
+* voorbeelden: welke taal is normatief (in het onderwijs, thuis, ...)
+
+
+# Cognitief-functionele semantiek
+
+## Startpunt: modulariteit na de Linguistics Wars
+
+::: columns
+::: {.column width="60%"}
+Na de Linguistics Wars tussen de Generative Semanticists en de Interpretative Semanticists (jaren 1970) laten enkele Generative Semanticists het programma achter en storten zich op de tegenovergestelde hypotheses: wat als taal geen aparate module is (met syntaxis als hoofdmodule) maar een fenomeen dat gebruikt maakt van allerlei, eerder algemene functies van ons denken?
+
+$\rightarrow$ Invloed van psychologie op taalkunde
+
+:::
+
+::: {.column width="40%"}
+![](inputfiles/opdeling1.png)
+
+:::
+:::
+
+
+# Categorisatie
+
+Hoe delen we conceptueel de wereld op?
+
+
+
+
+<!-- * Categorisatie: hoe we de wereld conceptueel opdelen -->
+<!-- * Categorieën reflecteren onze interpretatie van de wereld -->
+<!-- * Fundamentele cognitieve capaciteit; uitvoerig bestudeerd in de psychologie -->
+
+
+
+
+
+<!-- ## Categorisatie -->
+
+
+<!-- * Lakoff (1987) -->
+<!--   %\item Invloedrijk werk voor verdere ontwikkeling van de cognitieve linguïstiek -->
+
+
+
+<!--   \begin{center} -->
+<!--     \setlength\fboxsep{0pt} -->
+<!-- \setlength\fboxrule{0.5pt} -->
+<!--   \fbox{\includegraphics[width=3.5cm]{images/womenfire}} -->
+<!-- \end{center}   -->
+
+
+## Klassieke theorie van categorisatie
+
+Overheersende model van categorisatie sinds Plato en Aristoteles
+
+* Een entiteit maakt deel uit van een categorie als een verzameling (individueel) [noodzakelijke]{.alert2} en (gezamenlijk) [voldoende]{.alert2} voorwaarden
+
+(@) *bachelor* = \[-- [married]{.smallcaps}\], \[+ [male]{.smallcaps}\], \[+ [adult]{.smallcaps}\]
+
+Lijkt op
+
+* componentiële analyse
+* (generatieve) betekenisrepresentatie in termen van semantische features
+* voordeel: precieze formulering; past binnen formeel, algoritmisch model
+
+  
+
+
+
+## Klassieke theorie van categorisatie: taalkunde
+
+
+* Taalkundige categorieën (fonemen, woordklassen, woordbetekenis worden gedefinieerd in termen van noodzakelijke en voldoende voorwaarden
+* Element behoort tot een categorie, of behoort er niet toe
+* Taalkennis is kennis van  verschillen tussen categorieën van taalkundige elementen
+
+  
+
+
+
+## Klassieke theorie van categorisatie: problemen
+
+
+::: {.font80}
+> “Betrachte z.B. einmal die Vorgänge, die wir [“Spiele”]{.alert2} nennen. Ich meine Brettspiele, Kartenspiele, Ballspiel, Kampfspiele, usw. Was ist allen diesen gemeinsam? – Sag nicht: “Es muss ihnen etwas gemeinsam sein, sonst hießen sie nicht “Spiele” ” – sondern schau, ob ihnen allen etwas gemeinsam ist. – Denn wenn du sie anschaust, wirst du zwar [nicht etwas sehen, was allen gemeinsam wäre, aber du wirst Ähnlichkeiten, Verwandtschaften, sehen]{.alert2}, und zwar eine ganze Reihe. Wie gesagt: denk nicht, sondern schau! – Schau z.B. die Brettspiele an, mit ihren mannigfachen Verwandtschaften. Nun geh zu den Kartenspielen über: hier findest du viele Entsprechungen mit jener ersten Klasse, aber viele gemeinsame Züge verschwinden, andere treten auf. Wenn wir nun zu den Ballspielen übergehen, so bleibt manches Gemeinsame erhalten, aber vieles geht verloren.
+> 
+> – Sind sie alle “unterhaltend“. Vergleiche Schach mit dem Mühlfahren. Oder gibt es überall ein Gewinnen und Verlieren, oder eine Konkurrenz der Spielenden? Denk an die Patiencen. In den Ballspielen gibt es Gewinnen und Verlieren; aber wenn ein Kind den Ball an die Wand wirft und wieder auffängt, so ist dieser Zug verschwunden. Schau, welche Rolle Geschick und Glück spielen. Und wie verschieden ist Geschick im Schachspiel und Geschick im Tennisspiel. Denk nun an die Reigenspiele: Hier ist das Element der Unterhaltung, aber wie viele der anderen Charakterzüge sind verschwunden! Und so können wir durch die vielen, vielen anderen Gruppen von Spielen gehen. Ähnlichkeiten auftauchen und verschwinden sehen. 
+> 
+> Und das Ergebnis dieser Betrachtung lautet nun: Wir sehen ein [kompliziertes Netz von Ähnlichkeiten, die einander übergreifen und kreuzen]{.alert2}. Ähnlichkeiten im Großen und Kleinen.” [Wittgenstein 1953: 66]
+
+:::
+
+
+
+
+    
+## Klassieke theorie van categorisatie: problemen
+
+  
+* Probleem van de [definieerbaarheid]{.alert2}
+* Onmogelijk om een verzameling van [gedeelde voorwaarden]{.alert2} te definiëren voor de categorie [spel]{.smallcaps}
+* Bovendien: elke definitie kent zijn uitzonderingen (voorbeeld: [zoogdier]{.smallcaps},  bv. vogelbekdier, walvis)
+* Denk terug aan de vage grens tussen *Sessel* en *Stuhl* van Gipper
+  
+
+  
+        
+## Klassieke theorie van categorisatie: problemen
+
+::: columns
+
+::: {.r-stack .column width="70%"}
+![](inputfiles/kop1.png){.fragment data-fragment-index="1"}
+
+![](inputfiles/kop2.png){.fragment data-fragment-index="2"}
+
+![](inputfiles/kop3.png){.fragment data-fragment-index="3"}
+
+![](inputfiles/kop4.png){.fragment data-fragment-index="4"}
+
+![](inputfiles/kop5.png){.fragment data-fragment-index="5"}
+
+:::
+
+
+::: {.column width="30%"}
+*bowl* of *cup*?
+
+:::
+
+:::
+
+
+
+## Klassieke theorie van categorisatie: problemen
+
+::: columns
+::: {.column width="50%"}
+Proefpersonen krijgen geen informatie over de inhoud:
+
+![](inputfiles/kop_graph1.png)
+
+:::
+
+::: {.column width="50%"}
+Container wordt gebruikt voor voedsel:
+
+![](inputfiles/kop_graph2.png)
+
+:::
+:::
+
+
+
+
+
+
+## Klassieke theorie van categorisatie: problemen
+
+
+* Probleem van conceptuele [vaagheid]{.alert2}
+* De klassieke theorie veronderstelt een welomlijnde, duidelijke afbakening van categorieën
+* In dat geval is categorielidmaatschap strikt binair (wel of niet lid van een categorie)
+* Voor vele categorieën geldt dit inderdaad (voorbeeld: [oneven nummer]{.smallcaps})
+* Maar andere categorieën hebben vage grenzen:
+    * [tafel]{.smallcaps} vs. [tapijt]{.smallcaps} als lid van de categorie [meubel]{.smallcaps}
+    * [mus]{.smallcaps} vs. [pinguïn]{.smallcaps} als lid van de categorie [vogel]{.smallcaps}
+
+
+## Eerste oefening: vogels
+
+Kort experiment:  
+je krijgt zodadelijk 1 minuut de tijd om zoveel mogelijk dingen van een categorie op te schrijven
+
+
+
+<!-- [link](https://www.polleverywhere.com/free_text_polls/Y5BowhyfMKYdXjUaRrY6r){target="_blank"} (Polleverywhere) -->
+
+![](inputfiles/bird_results2025.png)
+
+
+
+## Tweede oefening: andere categorieën
+
+Definieer voor jezelf de volgende begrippen, zowel intensioneel (definitie) als extensioneel (toepasselijke voorbeelden, maar misschien ook voorbeelden die minder toepasselijk zijn).
+
+* [fruit]{.smallcaps}
+* [vogel]{.smallcaps}
+* [oneven getal]{.smallcaps}
+* [rood]{.smallcaps}
+
+
+
+## Prototypiciteitstheorie
+
+![](inputfiles/protodieren.png)
+
+
+## Oplossingen voor categorisatie
+
+![](inputfiles/rosch_example.png)
+
+
+## Prototypiciteitstheorie
+
+::: columns
+::: {.column width="80%"}
+* Eleanor Rosch (1975)
+* Gradatie van categorielidmaatschap wordt bevestigd door verschillende psychologische experimenten
+    * Beoordeling van beste voorbeelden voor een categorie
+    * Snelheid van categorieverificatie
+    * Priming-effecten
+* Conclusie: categorieën zijn gebaseerd op prototypes
+
+:::
+
+::: {.column width="20%"}
+![](inputfiles/rosch.jpg)
+
+:::
+:::
+
+
+## Prototypiciteitstheorie
+
+* Categorie wordt bepaald door het [prototype]{.alert2}
+
+* Beste, meest representatieve voorbeeld van een categorie
+* Bezit alle typische kenmerken van de categorie
+
+* Om deel uit te maken van een categorie moeten sommige, maar niet alle kenmerken aanwezig zijn
+* Categorieleden zijn verwant aan elkaar via [familiegelijkenis]{.alert2}
+
+* Reeks van overlappende gelijkenissen, waarbij geen enkel kenmerk gemeenschappelijk is voor alle leden van de categorie
+* Onmogelijk te definiëren in termen van noodzakelijke en voldoende voorwaarden
+
+## Prototypiciteit: intensie en extensie
+
+![](inputfiles/birdintensionextension.png)
+
+## Prototypiciteitstheorie
+
+* Probleem van de [typiciteit]{.alert2}
+* Sommige categorieleden worden als betere voorbeelden beschouwd dan andere
+* bv. vorige voorbeelden: [tafel]{.smallcaps} vs. [tapijt]{.smallcaps}, [mus]{.smallcaps} vs. [pinguïn]{.smallcaps}
+* Dit geldt zelfs voor strikt afgebakende categorieën: vb.
+        [even nummers]{.smallcaps}: 2 en 4 worden als betere voorbeelden
+        beschouwd dan 96 en 10014
+* Lidmaatschap van categorieën lijkt [gradueel]{.alert2}
+
+## Prototypiciteit: wat men eronder verstaat
+
+
+::: {width="70%"}
+
+![](inputfiles/prototypeffects.png)
+
+:::
+
+::: {.fragment}
+bv. 
+[fruit]{.smallcaps} (a,b,c,d), 
+[vogel]{.smallcaps} (a,b,d), 
+[rood]{.smallcaps} (a,c), 
+[oneven nummer]{.smallcaps} (a)
+
+:::
+
+
+# Metafoor, metonymie, blend
+
+
+## Metaforen
+
+
+* Traditioneel worden metaforen beschouwd als een literair/retorisch instrument
+* Figuurlijk verwoorden van een letterlijke betekenis
+* $\leftrightarrow$ cognitieve taalkunde: figuurlijk taalgebruik is geen stilistische opsmuk, maar een fundamenteel kenmerk van menselijke taal/het denken in het algemeen
+* [conceptuele metaforen]{.alert2}
+
+## Metaphors we live by
+
+> The essence of metaphor is understanding one kind of thing in terms of another.
+
+
+![*Metaphors We Live By*, Lakoff & Johnson (1980)](inputfiles/mwlb.jpg)
+
+
+
+## Klassieke theorie van metaforen
+
+
+* Gangbare theorie sinds Aristoteles
+* Metaforen zijn een taalkundig fenomeen; eigenschap van woorden
+* Metaforen dienen een literair/retorisch doel
+* Metaforen zijn gebaseerd op een impliciete vergelijking tussen twee entiteiten (vb. *Achilles is een leeuw*)
+* Het gebruik van metaforen is een doelbewuste, weloverwogen keuze
+* Stijlfiguur gebruikt voor het stilistisch effect, maar niet noodzakelijk voor alledaagse communicatie
+
+
+## Lakoff & Johnson, daarentegen
+
+
+* Metaforen zijn een conceptueel kenmerk, geen taalkundig fenomeen
+* De functie van een metafoor is om bepaalde concepten beter te doorgronden, niet louter om artistieke of retorische redenen
+* Metaforen zijn niet enkel op gelijkenis gebaseerd
+* Metaforen worden moeiteloos en zonder nadenken gebruikt
+* Metaforen zijn inherent aan het denkproces
+
+
+$\rightarrow$ metaforen zijn alomtegenwoordig in het menselijk denken en in alledaags taalgebruik
+
+
+## Voorbeeld
+
+
+(@) We hebben nu toch al *een hele weg afgelegd*.
+(@)  Misschien moeten we ieder *onze eigen weg gaan*.
+(@) Nu kunnen we niet meer *terug*.
+(@) *Waar* staan we nu?
+(@) Het is een *bochtig parcours* gebleken.
+(@) Onze relatie *zit in een doodlopend straatje*.
+(@) Ik heb het gevoel dat we *ter plaatse trappelen*.
+(@) We *zitten vast*.
+
+::: {.fragment}
+$\rightarrow$ [relatie is een traject]{.smallcaps}
+
+$\rightarrow$ [love is a journey]{.smallcaps}
+
+
+:::
+
+
+## Voorbeeld
+
+
+(@)  Verschillende varianten van het coronavirus zijn inmiddels ons land *binnengedrongen*.
+(@) We zijn het *gevecht tegen* corona *aan het verliezen*.
+(@) Antivirale medicatie kan een belangrijke *wapen* zijn in onze *strijd tegen* het coronavirus.
+(@) De huidige pandemie heeft wereldwijd *een zware slag toegebracht* aan bedrijven in alle sectoren.
+(@) Haar moeder mocht vanwege dat *uiterst geniepig toeslaande* coronavirus geen bezoek meer ontvangen.
+(@) Als we covid-19 ooit zullen *verslaan*, zal het met een vaccin zijn.
+(@) Het virus *valt* de longen *aan*.
+(@)  Het *rijk der vrijheid* is in zicht.
+
+::: {.fragment}
+$\rightarrow$ [ziekte is een oorlog]{.smallcaps}
+
+:::
+
+## Conceptuele metaforen
+
+
+* Een metafoor is een mapping van een [brondomein]{.alert2} naar een [doeldomein]{.alert2}
+* Het doeldomein wordt gestructureerd in termen van het brondomein
+* We spreken niet enkel in metaforische termen; we denken ook in metaforische termen
+* Ons taalgebruik is een reflectie van de onderliggende conceptuele associatie
+
+
+
+
+
+
+
+## Conceptuele metaforen
+
+
+* Conceptuele mapping vormt de basis voor overeenstemmingen tussen bron- en doeldomein
+
+
+bron (traject)   |     doel (relatie)
+---------------- | ------------------
+reizigers  | partners
+afgelegde afstand | voortgang 
+obstakels | moeilijkheden 
+beslissing over route |   keuzes in relatie 
+bestemming | doelen in de relatie 
+
+
+
+## Conceptuele metaforen
+
+* Conceptuele mapping vormt de basis voor overeenstemmingen tussen bron- en doeldomein
+
+
+bron (traject)   |     doel (relatie)
+---------------- | ------------------
+vijand | virus / corona 
+aanval | infectie / verspreiding 
+invasie | snelle verspreiding / pandemie 
+munitie | vaccin/medicatie 
+overwinning | herstel / indijking
+
+
+
+
+## Bron- en doeldomeinen
+
+
+* Brondomein is vaak gerelateerd aan directe, lichamelijke ervaring
+* Doeldomein is vaak een meer abstract concept/idee
+
+bron (traject)   |     doel (relatie)  | voorbeeld
+---------------- | ------------------  | ---------
+ruimte | belang | een *centraal* idee
+kracht | competitie | een *sterke* kandidaat
+manipulatie | sociale relaties | in zijn voordeel *ombuigen*
+zicht | logica | een *kristalheldere* redenering
+smaak | emotie | een *bittere* teleurstelling
+
+
+## Complexe metaforen en primaire metaforen
+
+(@) [theorieën zijn gebouwen]{.smallcaps}
+
+Want: *je bouwt je theorie op*, *de structuur van je redenering zit niet goed*, *theorie blijft niet overeind*, *argumenten goed plannen*, ...
+
+Maar, deze complexe metafoor bestaat uit meerdere primaire metaforen (die meer concreet zijn, meer gestoeld in de lichamelijke ervaring)
+
+* [abstracte organisatie is fysieke structuur]{.smallcaps}
+* [voortbestaan/duurzaamheid is overeind blijven]{.smallcaps}
+* [afhankelijkheid is fysieke ondersteuning]{.smallcaps}
+
+
+## Conceptuele metaforen
+
+
+* Metaforen in taal zijn het resultaat van ons cognitief vermogen om een bepaald concept te overdenken in termen van een ander concept
+* Mapping van een semantisch brondomein naar een doeldomein
+* Helpt ons om complexe fenomenen beter te begrijpen; we kunnen onduidelijke, onbekende thema's uitdrukken in termen van beter bekende, meer concrete en meer gestructureerde domeinen
+* (Conceptuele) metaforen zijn [cross-domain]{.alert2}
+
+## Conceptuele metonymie
+
+* We kunnen ook binnen hetzelfde semantisch domein blijven.
+* We spreken dan eerder van [metonymie]{.alert2} dan van metafoor.
+
+(@) Ik drink een (a) *glas* (b) *limonade* ("fanta orange").
+(@) Bij De Slegte hebben ze veel (c ) *Shakespeare*. 
+(@) Deze donderdag is er een vergadering. We (d) *verplaatsen* de vergadering twee dagen naar voren. Wanneer is de vergadering?
+
+* (a) = [product voor materiaal waaruit het product bestaat]{.smallcaps} (metonymie)
+* (b) = [generalisatie]{.smallcaps} (generalisatie)
+* (c) = [maker voor gemaakte]{.smallcaps} (metonymie)
+* (d) = [tijd is ruimte]{.smallcaps} (metafoor)
+
+
+
+
+
+
+
+
+
+      
+

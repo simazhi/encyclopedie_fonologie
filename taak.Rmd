@@ -1,0 +1,52 @@
+---
+title: Encyclopedie van de Sinologie
+subtitle: Fonologische reconstructie: Talen en dialecten in China
+format:
+  pdf:
+    documentclass: article
+fontsize: 12pt
+geometry: margin=2.5cm
+params:
+  poem_file: ""
+  poem_titel: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+#| echo: false
+poem_lines <- readLines(params$poem_file, encoding = "UTF-8", warn = FALSE)
+poem_text <- paste(poem_lines, collapse = "\n")
+```
+
+
+# 1. Chinese naam  
+
+1a. Schrijf je Chinese naam in simplified en traditionele karakters  
+1b. Onderzoek via Wiktionary de uitspraak van je naam in Mandarijn, Middelchinees, Oudchinees (focus op de reconstructies van Baxter)
+
+# 2. Gedicht  
+
+2a. Je krijgt een kwatrijn. Transcribeer in Mandarijn en één ander grote lectale groep van China (bv. Yuè, Wú, Mǐn etc.).  
+2b. Transcribeer in Middelchinees (volg de reconstructie van Baxter).  
+2c. Reflecteer kort over het verschil tussen Mandarijn, je gekozen lect, en Middelchinees. Hoe verschillen ze? Waar zijn ze gelijkaardig? Verrast dit je?
+
+# 3. Voor de liefhebber (1 punt exra te verdienen) 
+
+3a. Bespreek de tonale patronen van je toegewezen gedicht.  
+3b. Vertaal het gedicht.
+
+# Gedicht
+
+```{r}
+#| echo: false
+#| results: asis
+cat(poem_text)
+```
+
+
+
+

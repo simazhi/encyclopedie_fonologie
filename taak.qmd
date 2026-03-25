@@ -1,0 +1,86 @@
+---
+format:
+  pdf:
+    documentclass: article
+fontsize: 12pt
+geometry: margin=2.5cm
+mainfont: "Arial"
+CJKmainfont: "Noto Sans CJK TC"
+params:
+  poem_file: ""
+  poem_titel: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
+```
+
+```{r}
+poem_lines <- readLines(params$poem_file, encoding = "UTF-8", warn = FALSE)
+poem_lines <- poem_lines[!grepl("^#\\s+", poem_lines)]
+poem_text <- paste(poem_lines, collapse = "\n")
+```
+
+# Encyclopedie van de Sinologie
+
+## Fonologische reconstructie: Talen en dialecten in China
+
+\vspace{0.5cm}
+
+## Naam: 
+
+## Studentennummer: 
+
+\vspace{0.5cm}
+
+## Opdracht 1. Chinese naam
+
+1a. Schrijf je Chinese naam in simplified en traditionele karakters.
+
+\vspace{2cm}
+
+1b. Onderzoek via Wiktionary de uitspraak van je naam in Mandarijn, Middelchinees en Oudchinees. Focus op de reconstructies van Baxter.
+
+\vspace{2cm}
+
+## Opdracht 2. Gedicht
+
+
+`r params$poem_titel`
+
+```{r}
+#| results: asis
+cat(poem_text)
+```
+
+\vspace{0.5cm}
+
+
+2a. Je krijgt een kwatrijn. Transcribeer het in Mandarijn en in één andere grote lectale groep van China (bv. Yuè, Wú, Mǐn enz.).
+
+\vspace{7cm}
+
+2b. Transcribeer het gedicht in het Middelchinees volgens de reconstructie van Baxter.
+
+\vspace{5cm}
+
+2c. Reflecteer kort over de verschillen tussen Mandarijn, je gekozen lect en Middelchinees. Hoe verschillen ze? Waar zijn ze gelijkaardig? Verrast dit je?
+
+\vspace{5cm}
+
+## Opdracht 3. Voor de liefhebber (1 extra punt)
+
+3a. Bespreek de tonale patronen van je toegewezen gedicht.
+
+\vspace{3cm}
+
+3b. Vertaal het gedicht.
+
+\vspace{3cm}
+
+
+
