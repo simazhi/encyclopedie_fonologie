@@ -32,6 +32,12 @@ footer: Encyclopedie van de sinologie
 #   - pandoc-ling.lua
 ---
 
+## Kort voorstellen
+
+* Naam
+* Wat trok je aan aan Chinese studies en waarom blijf je?
+* Hoofdinteresse m.b.t. Chinese studies?
+
 # Hoe sprak een Wáng Wéi? Hoe sprak een Confucius?
 
 ## Op het programma vandaag
@@ -70,7 +76,8 @@ Gedichtjes lezen
 
 <br>
 <br>
-Ken je alle pīnyīn?
+Ken je alle pīnyīn?  
+Beredeneerd gokken?
 
 :::
 
